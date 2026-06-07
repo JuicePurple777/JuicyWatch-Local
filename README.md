@@ -2,7 +2,7 @@
 
 After:
 
-<img width="1918" height="991" alt="image" src="https://github.com/user-attachments/assets/f39ecd33-3462-49f2-97ed-cf3c6775e27f" />
+<img width="1920" height="1080" alt="MyAniVault showcase image" src="https://github.com/user-attachments/assets/ad80ae41-af95-416a-8626-4ae759471880" />
 
 
 
