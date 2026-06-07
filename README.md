@@ -13,11 +13,12 @@ Before :
 <img width="1292" height="789" alt="Before" src="https://github.com/user-attachments/assets/5d012f3b-5eb4-4bb3-802a-89b09ce289c9" />
 
 
-This application, MyAniVault, is a local application that runs directly on your computer locally.
 
-It's main purpose is to be a localized video media Library that allows you to view videos folders and files located on your own drives in a more visually pleasing way. Then play them through a chosen media player, also locally chosen by you from a media player within your system. 
+This application, MyAniVault, is a local application that runs directly on your computer.
 
-The application is suppose to mimic that of a steaming service. Application was originally designed with Anime shows in mind so it has a tool to put Metadata from MyAnimeList.net. The tool pulls information such as: Thumbnails, Public ratings, Genres, etc. As long as the naming of your folders is understandable by the Metadata Fetcher. There is also a feature to search MAL specifically for certain Metadata within each show folder if you need to adjust the data pulled. Furthermore, if using the application for non-anime purposes there is still a way to setup thumbnails for each folder using images you have on your system/downloaded. Naming criteria for these images can be found in the settings menu within the application MyAniVault.
+It's main purpose is to be a localized video media Library that allows you to view videos folders and files located on your own drives in a more visually pleasing way. Then play them through a chosen media player on your system. 
+
+The application is suppose to mimic that of a steaming service. Application was originally designed with Anime shows in mind so it has a tool to use Metadata from MyAnimeList.net. The tool pulls information such as: Thumbnails, Public ratings, Genres, etc. As long as the naming of your folders is understandable by the Metadata Fetcher. There is also a feature to search MAL specifically for certain Metadata within each show folder if you need to adjust the data pulled. Furthermore, if using the application for non-anime purposes there is still a way to setup thumbnails for each folder using images you have on your system/downloaded. Naming criteria for these images can be found in the settings menu within the application MyAniVault.
 
 
 Steps to take when you open MyAniVault for the first time :
