@@ -18,7 +18,8 @@ This application, MyAniVault, is a local application that runs directly on your 
 
 It's main purpose is to be a localized video media Library that allows you to view videos folders and files located on your own drives in a more visually pleasing way. Then play them through a chosen media player on your system. 
 
-The application is suppose to mimic that of a steaming service. Application was originally designed with Anime shows in mind so it has a tool to use Metadata from MyAnimeList.net. The tool pulls information such as: Thumbnails, Public ratings, Genres, etc. As long as the naming of your folders is understandable by the Metadata Fetcher. There is also a feature to search MAL specifically for certain Metadata within each show folder if you need to adjust the data pulled. Furthermore, if using the application for non-anime purposes there is still a way to setup thumbnails for each folder using images you have on your system/downloaded. Naming criteria for these images can be found in the settings menu within the application MyAniVault.
+The application is suppose to mimic that of a steaming service. Application was originally designed with Anime shows in mind so it has a tool to use Metadata from MyAnimeList.net. The tool pulls information such as: Thumbnails, Public ratings, Genres, etc. As long as the naming of your folders is understandable by the Metadata Fetcher. There is also a feature to search MAL specifically for certain Metadata within each show folder if you need to adjust the data pulled.
+Furthermore, if using the application for non-anime purposes there is still a way to setup thumbnails for each folder using images you have on your system/downloaded. Naming criteria for these images are as followed: poster, cover, folder, thumbnail, fanart, show, image, banner. Supported Extensions for these images are : .jpg, .jpeg, .png, .webp, .bmp .
 
 
 Steps to take when you open MyAniVault for the first time :
