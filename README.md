@@ -1,5 +1,18 @@
 # MyAniVault (Local Library)
 
+After:
+
+<img width="1918" height="991" alt="image" src="https://github.com/user-attachments/assets/f39ecd33-3462-49f2-97ed-cf3c6775e27f" />
+
+
+
+
+
+Before :
+
+<img width="1292" height="789" alt="Before" src="https://github.com/user-attachments/assets/5d012f3b-5eb4-4bb3-802a-89b09ce289c9" />
+
+
 This application, MyAniVault, is a local application that runs directly on your computer locally.
 
 It's main purpose is to be a localized video media Library that allows you to view videos folders and files located on your own drives in a more visually pleasing way. Then play them through a chosen media player, also locally chosen by you from a media player within your system. 
@@ -23,16 +36,4 @@ Otherwise, this application is free for use!
 
 Download : [https://github.com/JuicePurple777/MyAniVault/releases](https://github.com/JuicePurple777/MyAniVault/releases)
 
-
-After:
-
-<img width="1918" height="991" alt="image" src="https://github.com/user-attachments/assets/f39ecd33-3462-49f2-97ed-cf3c6775e27f" />
-
-
-
-
-
-Before :
-
-<img width="1292" height="789" alt="Before" src="https://github.com/user-attachments/assets/5d012f3b-5eb4-4bb3-802a-89b09ce289c9" />
 
